@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 - git clone https://github.com/Khanetmoi/CapstoneProject.git
 
 ### LIVE DEMO
-* Web site: [Global Students](https://khanetmoi.github.io/CapstoneProject/)
+* Web site: [Global Students](https://khanetmoi.github.io/capstone/)
     
     
 # 👤 Author1
